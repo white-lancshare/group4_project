@@ -1,0 +1,10 @@
+[
+     {
+        "name":"dan",
+        "age":12,
+        "gender":"omko",
+        "email":"johndoe@gmail.com",
+        "department":"hr",
+        "jobRole":"hr officer"
+       }
+]
